@@ -1,16 +1,14 @@
+
+## 推荐
+
 关于 Flutter 状态管理，强烈推荐看下面这几篇文章，还有手把手的 demo APP。
 
-[How the GetIt service locator package works in Dart](https://medium.com/flutter-community/how-the-getit-service-locator-package-works-in-dart-fc16a2998c07)
-[Flutter state management for minimalists](https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1)
-[GitHub - suragch/minimalist\_state\_management\_timer\_app](https://github.com/suragch/minimalist_state_management_timer_app/tree/master)
-[Flutter minimalist state management: Counter app](https://suragch.medium.com/flutter-minimalist-state-management-counter-app-ab1671a1f877)
-[Flutter minimalist state management: Weather app](https://suragch.medium.com/flutter-minimalist-state-management-weather-app-708b01417b9a)
+- [How the GetIt service locator package works in Dart](https://medium.com/flutter-community/how-the-getit-service-locator-package-works-in-dart-fc16a2998c07)
+- [Flutter state management for minimalists](https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1)
+- [GitHub - suragch/minimalist\_state\_management\_timer\_app](https://github.com/suragch/minimalist_state_management_timer_app/tree/master)
+- [Flutter minimalist state management: Counter app](https://suragch.medium.com/flutter-minimalist-state-management-counter-app-ab1671a1f877)
+- [Flutter minimalist state management: Weather app](https://suragch.medium.com/flutter-minimalist-state-management-weather-app-708b01417b9a)
 
-
-
-我之前对 Flutter 的状态管理一直比较头大，最近看到了一篇[Flutter state management for minimalists | by Suragch | Medium](https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1)文章，感觉文章真的很好，把为什么要进行状态管理以及什么是状态管理说的很通透，推荐大家看原文，这里是自己总结一下。
-
-<!--more-->
 
 
 
